@@ -19,32 +19,31 @@
 
 ## 👨‍💻 Sobre Mí
 
-```javascript
-const jersson = {
-    ubicacion: "Abancay, Perú 🇵🇪",
-    rol: "Software Engineer | Full Stack Developer",
-    educacion: "Ingeniero de Sistemas e Informática",
-    experiencia: "5+ años",
-    
-    especialidades: [
-        "Desarrollo de Software Empresarial",
-        "Arquitectura Cloud (AWS & Azure)",
-        "Business Intelligence & Data Analytics",
-        "Integración de APIs Gubernamentales",
-        "Soluciones con Inteligencia Artificial"
-    ],
-    
-    sectores: ["Salud", "Educación", "Gobierno", "Transporte", "Finanzas"],
-    
-    actualmente: {
-        trabajando: "2Cloud – Tecnología y Consultoría",
-        enfoque: "Soluciones Cloud y BI de nivel enterprise",
-        aprendiendo: "Arquitecturas Serverless & AI Integration"
-    },
-    
-    pasion: "Crear software que resuelva problemas reales y genere impacto medible"
-};
-```
+<div align="center">
+
+### 🚀 Software Engineer | Full Stack Developer | Cloud Solutions Architect
+
+</div>
+
+Soy **Ingeniero de Sistemas e Informática** con **más de 5 años de experiencia** especializado en el diseño, desarrollo y despliegue de **aplicaciones web empresariales de nivel enterprise**. 
+
+Mi enfoque combina **ingeniería de software avanzada** con tecnologías modernas en **Cloud Computing (AWS y Azure)**, **Business Intelligence (Power BI, QuickSight)** y aplicación práctica de **Inteligencia Artificial** para crear soluciones escalables y seguras que optimizan procesos de negocio.
+
+#### 🎯 Áreas de Especialización:
+
+- 💼 **Desarrollo de Software Empresarial** - Aplicaciones web end-to-end para sectores críticos
+- ☁️ **Arquitectura Cloud** - Infraestructura escalable y serverless en AWS y Azure  
+- 📊 **Business Intelligence & Data Analytics** - Transformación de datos en insights accionables
+- 🔗 **Integración de APIs Gubernamentales** - RENIEC, SUNAT y sistemas públicos
+- 🤖 **Soluciones con IA** - Automatización inteligente y optimización de procesos
+
+#### 🏭 Sectores de Impacto:
+`Salud` • `Educación` • `Gobierno` • `Transporte` • `Finanzas`
+
+#### 💡 Actualmente:
+- 🏢 Software Engineer en **2Cloud – Tecnología y Consultoría**
+- 🎓 Instructor de tecnologías: Python, Power BI, SQL Server
+- 🌱 Explorando arquitecturas serverless y avanzadas integraciones con IA
 
 ---
 
@@ -92,162 +91,9 @@ const jersson = {
 
 </div>
 
----
 
-## 🏆 Proyectos Destacados
-
-<details open>
-<summary><b>💼 Soluciones Empresariales</b></summary>
-
-### 🏥 Sistema de Gestión de Historias Clínicas Odontológicas
-> Plataforma completa para clínicas dentales con registro, control y seguimiento de pacientes
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**✨ Features:** Control de citas • Historiales médicos • Gestión de tratamientos • Reportes estadísticos
 
 ---
-
-### 🗂️ Sistema Web de Trámite Documentario
-> Plataforma de gestión documental con integración RENIEC para validación de identidad
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![API RENIEC](https://img.shields.io/badge/API-RENIEC-green?style=flat-square)
-
-**✨ Features:** Seguimiento en tiempo real • Validación biométrica • Trazabilidad completa
-
----
-
-### 🧾 Sistema de Facturación Electrónica para Transporte
-> Solución integral para emisión de comprobantes electrónicos conforme a normativa SUNAT
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SUNAT](https://img.shields.io/badge/API-SUNAT-blue?style=flat-square)
-![RENIEC](https://img.shields.io/badge/API-RENIEC-green?style=flat-square)
-
-**✨ Features:** Facturación electrónica • Integración SUNAT • Validación RENIEC • Reportes financieros
-
-</details>
-
-<details>
-<summary><b>🎓 Soluciones Educativas (EdTech)</b></summary>
-
-### 🏫 Sistema Web de Gestión Educativa
-> Plataforma integral para administración académica de instituciones educativas
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**✨ Features:** Gestión de estudiantes • Control de notas • Administración de docentes • Portal de padres
-
----
-
-### 📜 Sistema de Emisión de Diplomas - UTEA
-> Plataforma para emisión, validación y control de diplomas académicos
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![FPDF](https://img.shields.io/badge/FPDF-PDF_Generation-red?style=flat-square)
-
-**✨ Features:** Generación automática de diplomas • Sistema de validación • Control de duplicados
-
-</details>
-
-<details>
-<summary><b>🏛️ Soluciones Gubernamentales (GovTech)</b></summary>
-
-### 🏠 Sistema de Saneamiento de Títulos de Propiedad
-> Gestión y control de procesos de saneamiento físico-legal de propiedades
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-Maps-199900?style=flat-square)
-
-**✨ Features:** Mapeo georreferenciado • Trazabilidad documental • Gestión de expedientes
-
-</details>
-
-<div align="center">
-
-**📌 Todos los proyectos desarrollados con:**  
-✅ Código limpio y documentado  
-✅ Arquitectura escalable  
-✅ Seguridad implementada  
-✅ Mejores prácticas de la industria
-
-</div>
-
----
-
-## 💼 Experiencia Profesional
-
-```mermaid
-timeline
-    title Mi Trayectoria Profesional
-    2019 : Practicante de Sistemas - UGEL Abancay
-         : Inicio en desarrollo de software
-    2020-2023 : Soporte y Desarrollo - UNAMBA
-              : Gestión de sistemas y desarrollo web
-    2023 : Analista de Soporte Técnico
-         : Servicios de Call Center del Perú
-    2023-2025 : Instructor de Tecnologías
-              : INAPCE PERÚ - CECAP PERÚ
-    2024-Presente : Software Engineer / Cloud Developer
-                  : 2Cloud - Tecnología y Consultoría
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Actual
-**Software Engineer / Cloud Developer**  
-*2Cloud – Tecnología y Consultoría*  
-*Marzo 2024 - Presente*
-
-- ☁️ Infraestructura en AWS y Azure
-- 📊 Análisis de datos con QuickSight y Power BI
-- 🤖 Desarrollo de soluciones con IA
-- 💻 Software a medida para empresas internacionales
-
-</td>
-<td width="50%" valign="top">
-
-### 🧑‍🏫 Docencia
-**Instructor de Tecnologías**  
-*INAPCE PERÚ - CECAP PERÚ*  
-*Diciembre 2023 - Junio 2025*
-
-- 🐍 Python & SQL Server
-- 📊 Power BI
-- 💼 Capacitación empresarial
-- 🎯 Enfoque práctico y resultados medibles
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Certificaciones & Formación
-
-<div align="center">
-
-| Certificación | Institución | Año |
-|:------------:|:-----------:|:---:|
-| 🏆 Excelencia en Desarrollo de Software | INCOCAT S.R.L. | 2026 |
-| ☁️ AWS Cloud Practitioner Essentials | AWS Training | 2025 |
-| 💻 Especialización en Desarrollo de Software | Universidad Continental | 2025 |
-| 🤖 Herramientas de Inteligencia Artificial | Capacitación Profesional | 2024 |
-| 📊 Power BI - Actualización Profesional | Capacitación Profesional | 2022 |
-
-</div>
-
----
-
 
 ## 🎯 Servicios Profesionales
 
