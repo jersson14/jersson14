@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpg" alt="Jersson Corilla Banner" width="100%"/>
+  <img src="logo2.png" alt="Jersson Corilla Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -51,47 +51,73 @@ Mi enfoque combina **ingeniería de software avanzada** con tecnologías moderna
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind&perline=4" alt="Frontend stack icons" />
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,java&perline=4" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,java&perline=4" alt="Backend stack icons" />
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### 🗄️ Bases de Datos
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,mariadb,sqlite,oracle&perline=3" alt="Database stack icons" />
+
+<br/>
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="33%">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&perline=4" />
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,git,gitlab,github&perline=4" alt="Cloud and DevOps stack icons" />
+
+<br/>
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Data & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 IA & Automatización
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7E3FF2?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge&logo=pinecone&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-### 📊 Data & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![QuickSight](https://img.shields.io/badge/AWS_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=jersson14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jersson14&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak stats" />
 
-### 🤖 AI & Automatización
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersson14&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
 
 </div>
-
-
 
 ---
 
@@ -147,9 +173,9 @@ Mentoría basada en experiencia real
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jersson1407miranda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jersson1407miranda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jersson-corilla-miranda-3020bb200)
 [![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jersson14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visita_mi_sitio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visita_mi_sitio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-nu-seven-19.vercel.app/)
 
 </div>
 
