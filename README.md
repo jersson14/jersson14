@@ -108,19 +108,6 @@ Mi enfoque combina **ingeniería de software avanzada** con tecnologías moderna
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=jersson14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jersson14&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak stats" />
-
-<img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=jersson14&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
-
-</div>
-
----
-
 ## 🎯 Servicios Profesionales
 
 <table>
