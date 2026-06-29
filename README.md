@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo2.png" alt="Jersson Corilla Banner" width="100%"/>
+  <img src="logo3.png" alt="Jersson Corilla Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -112,10 +112,10 @@ Mi enfoque combina **ingeniería de software avanzada** con tecnologías moderna
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jersson14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=jersson14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jersson14&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jersson14&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=jersson14&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
 
 </div>
 
